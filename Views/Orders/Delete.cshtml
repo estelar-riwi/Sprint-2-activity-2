@@ -1,0 +1,19 @@
+@model Sprint2Activity2.Models.Order
+
+@{
+    ViewData["Title"] = "Eliminar Pedido";
+}
+
+<h1>¿Seguro que deseas eliminar este pedido?</h1>
+
+<div>
+    <h4>Pedido #@Model.Order_Number</h4>
+    <p><b>Cliente:</b> @Model.Customer?.Name</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,20 @@
+@model Sprint2Activity2.Models.Waiter
+
+@{
+    ViewData["Title"] = "Eliminar Mesero";
+}
+
+<h1>¿Estás seguro que deseas eliminar este mesero?</h1>
+
+<div>
+    <h4>@Model.Name @Model.LastName</h4>
+    <p><b>Turno:</b> @Model.Shift</p>
+    <p><b>Años de Experiencia:</b> @Model.Years_Experience</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

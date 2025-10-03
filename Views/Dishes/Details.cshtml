@@ -1,0 +1,25 @@
+@model Sprint2Activity2.Models.Dish
+
+@{
+    ViewData["Title"] = "Detalles Plato";
+}
+
+<h1>Detalles del Plato</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Nombre</dt>
+        <dd class="col-sm-10">@Model.Name</dd>
+
+        <dt class="col-sm-2">Descripción</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+
+        <dt class="col-sm-2">Precio</dt>
+        <dd class="col-sm-10">@Model.Price.ToString("C")</dd>
+
+        <dt class="col-sm-2">Categoría</dt>
+        <dd class="col-sm-10">@Model.Category</dd>
+    </dl>
+</div>
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Volver</a>

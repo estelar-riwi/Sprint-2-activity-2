@@ -1,0 +1,45 @@
+@model Sprint2Activity2.Models.Reservation
+
+@{
+    ViewData["Title"] = "Eliminar Reserva";
+}
+
+<h1>¿Eliminar Reserva?</h1>
+
+<div>
+    <h4>Reserva</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Cliente
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Customer?.Name
+        </dd>
+        <dt class="col-sm-2">
+            Fecha
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Date.ToShortDateString() - @Model.Hour
+        </dd>
+        <dt class="col-sm-2">
+            Número de personas
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Num_People
+        </dd>
+        <dt class="col-sm-2">
+            Notas
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Notes
+        </dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

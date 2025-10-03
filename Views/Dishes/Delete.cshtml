@@ -1,0 +1,22 @@
+@model Sprint2Activity2.Models.Dish
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Eliminar Plato";
+}
+
+<h1>¿Estás seguro que deseas eliminar este plato?</h1>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><b>Descripción:</b> @Model.Description</p>
+    <p><b>Precio:</b> @Model.Price.ToString("C", new CultureInfo("es-CO"))</p>
+    <p><b>Categoría:</b> @Model.Category</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

@@ -1,0 +1,48 @@
+@model Sprint2Activity2.Models.Reservation
+
+@{
+    ViewData["Title"] = "Crear Reserva";
+}
+
+<h1>Crear Reserva</h1>
+
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="Date">Fecha</label>
+        <input asp-for="Date" type="date" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Hour">Hora</label>
+        <input asp-for="Hour" type="time" class="form-control" />
+        <span asp-validation-for="Hour" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Num_People">Número de Personas</label>
+        <input asp-for="Num_People" type="number" class="form-control" min="1" />
+        <span asp-validation-for="Num_People" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Notes">Notas</label>
+        <textarea asp-for="Notes" class="form-control"></textarea>
+        <span asp-validation-for="Notes" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CustomerId">Cliente</label>
+        <select asp-for="CustomerId" class="form-control" asp-items="ViewBag.CustomerId">
+            <option value="">-- Seleccione cliente --</option>
+        </select>
+        <span asp-validation-for="CustomerId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar Reserva</button>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</form>
