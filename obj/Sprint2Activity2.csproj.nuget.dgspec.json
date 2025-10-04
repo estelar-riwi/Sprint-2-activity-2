@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/csharp/Documentos/Sprint2Activity2/Sprint2Activity2.csproj": {}
+    "/home/csharp/Documentos/Sprint-2-activity-2/Sprint2Activity2.csproj": {}
   },
   "projects": {
-    "/home/csharp/Documentos/Sprint2Activity2/Sprint2Activity2.csproj": {
+    "/home/csharp/Documentos/Sprint-2-activity-2/Sprint2Activity2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/csharp/Documentos/Sprint2Activity2/Sprint2Activity2.csproj",
+        "projectUniqueName": "/home/csharp/Documentos/Sprint-2-activity-2/Sprint2Activity2.csproj",
         "projectName": "Sprint2Activity2",
-        "projectPath": "/home/csharp/Documentos/Sprint2Activity2/Sprint2Activity2.csproj",
+        "projectPath": "/home/csharp/Documentos/Sprint-2-activity-2/Sprint2Activity2.csproj",
         "packagesPath": "/home/csharp/.nuget/packages/",
-        "outputPath": "/home/csharp/Documentos/Sprint2Activity2/obj/",
+        "outputPath": "/home/csharp/Documentos/Sprint-2-activity-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/csharp/.nuget/NuGet/NuGet.Config"

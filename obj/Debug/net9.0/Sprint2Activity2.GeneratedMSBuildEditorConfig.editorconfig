@@ -17,141 +17,141 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sprint2Activity2
 build_property.RootNamespace = Sprint2Activity2
-build_property.ProjectDir = /home/csharp/Documentos/Sprint2Activity2/
+build_property.ProjectDir = /home/csharp/Documentos/Sprint-2-activity-2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/csharp/Documentos/Sprint2Activity2
+build_property.MSBuildProjectDirectory = /home/csharp/Documentos/Sprint-2-activity-2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Customers/Create.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Customers/Delete.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Customers/Details.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Customers/Edit.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Customers/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Dishes/Create.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Dishes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzaGVzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Dishes/Delete.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Dishes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzaGVzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Dishes/Details.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Dishes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzaGVzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Dishes/Edit.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Dishes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzaGVzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Dishes/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Dishes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzaGVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Home/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Home/Privacy.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Orders/Create.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Orders/Delete.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Orders/Details.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Orders/Edit.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Orders/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXJzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Reservations/Create.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Reservations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb25zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Reservations/Delete.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Reservations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb25zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Reservations/Details.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Reservations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb25zL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Reservations/Edit.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Reservations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb25zL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Reservations/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Reservations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb25zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Shared/Error.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Waiters/Create.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Waiters/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FpdGVycy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Waiters/Delete.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Waiters/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FpdGVycy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Waiters/Details.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Waiters/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FpdGVycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Waiters/Edit.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Waiters/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FpdGVycy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Waiters/Index.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Waiters/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FpdGVycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/_ViewImports.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/_ViewStart.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/csharp/Documentos/Sprint2Activity2/Views/Shared/_Layout.cshtml]
+[/home/csharp/Documentos/Sprint-2-activity-2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qhpmcv74dx
